@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1637286303 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5\težinskigraf\main.cpp
+	"graf.h"
+
+1637285296 c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5\težinskigraf\graf.h
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
+1637286609 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5\težinskigraf\graf.cpp
+	"graf.h"
+	<set>
+
+1639708706 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6\težinskigraf\main.cpp
+	"graf.h"
+
+1639708772 c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6\težinskigraf\graf.h
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
+1639708820 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6\težinskigraf\graf.cpp
+	"graf.h"
+	<set>
+
+1640657160 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9\težinskigraf\main.cpp
+	"graf.h"
+
+1640655239 c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9\težinskigraf\graf.h
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
+1640303084 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9\težinskigraf\graf.cpp
+	"graf.h"
+	<set>
+	<algorithm>
+
+1642871381 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9 - 10\težinskigraf\graf.cpp
+	"graf.h"
+	<cmath>
+
+1642871559 c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9 - 10\težinskigraf\graf.h
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+	<set>
+	<algorithm>
+	<queue>
+
+1642871649 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\ja\lv\5 - 6 - 8 - 9 - 10\težinskigraf\main.cpp
+	"graf.h"
+
+1643314131 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\projekat\težinskigraf\main.cpp
+	"graf.h"
+
+1643312690 c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\projekat\težinskigraf\graf.h
+	<iostream>
+	<vector>
+	<list>
+	<algorithm>
+	<cmath>
+
+1643314168 source:c:\users\edin\onedrive\fakultet\semestri\v semestar\analiza i sinteza algoritama\projekat\težinskigraf\graf.cpp
+	"graf.h"
+
